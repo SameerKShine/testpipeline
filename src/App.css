@@ -1,0 +1,76 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin:0;
+  padding:0;
+
+}
+
+.parallax1 {
+  /* The image used */
+  background-image: url("https://images.pexels.com/photos/103123/pexels-photo-103123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+
+  /* Set a specific height */
+  min-height: 700px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax2 {
+  /* The image used */
+  background-image: url("https://images.pexels.com/photos/3452151/pexels-photo-3452151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+
+  /* Set a specific height */
+  min-height: 700px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax3 {
+  /* The image used */
+  background-image: url("https://images.pexels.com/photos/8147146/pexels-photo-8147146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+
+  /* Set a specific height */
+  min-height: 700px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax3 {
+  /* The image used */
+  background-image: url("https://images.pexels.com/photos/9800835/pexels-photo-9800835.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+
+  /* Set a specific height */
+  min-height: 700px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax4 {
+  /* The image used */
+  background-image: url("https://images.pexels.com/photos/10519475/pexels-photo-10519475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+
+  /* Set a specific height */
+  min-height: 700px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

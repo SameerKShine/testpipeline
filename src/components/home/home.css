@@ -1,0 +1,6 @@
+.Bg-img{
+    background-image: url('./image/pexels-photo-103123.jpeg');
+    background-repeat: no-repeat;
+    height: 41rem;
+    background-size: cover;
+}

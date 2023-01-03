@@ -1,0 +1,9 @@
+.cont{
+    display: flex;
+    justify-content: center;
+    height: 65rem;
+    align-items: center;
+}
+.right{
+    float:right
+}
